@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "img": "./assets/las-moras-malvec.png",
+      "name": "Las Moras Malvec",
+      "color": "Negro",
+      "variety":"Malbec",
+      "country": "Argentina",
+      "price": 89900,
+      "size": "750 ml"
+    },
+    {
+      "id": 2,
+      "img": "./assets/Correas_Colección.png",
+      "name": "Correas Colección",
+      "color": "Tinto",
+      "variety":"Malbec",
+      "country": "Chile",
+      "price": 75900,
+      "size": "750 ml"
+    },
+    {
+      "id": 3,
+      "img": "./assets/Gris-Macul.png",
+      "name": "Gris Macul",
+      "color": "Rosado",
+      "variety":"Cabernet",
+      "country": "Chile",
+      "price": 51900,
+      "size": "750 ml"
+    },
+    {
+      "id": 4,
+      "img": "./assets/ramon-bilbao.png",
+      "name": "Ramón Bilbao",
+      "color": "Rosado",
+      "variety":"Garnacha Viura",
+      "country": "España",
+      "price": 69900,
+      "size": "750 ml"
+    },
+    {
+      "id": 5,
+      "img": "./assets/Piccini_Chianti.png",
+      "name": "Piccini Chianti",
+      "color": "Tinto",
+      "variety":"MErlot",
+      "country": "Italia",
+      "price": 58900,
+      "size": "750 ml"
+    },
+    {
+      "id": 6,
+      "img": "./assets/cotes-de-provence.png",
+      "country": "Francia",
+      "color": "Rosado",
+      "variety":"",
+      "name": "Cotes De Provence",
+      "price": 78900,
+      "size": "750 ml"
+    },
+    {
+      "id": 7,
+      "img": "./assets/rosaleda.png",
+      "name": "Rosaleda ",
+      "color": "Blanco",
+      "variety":"Sauvignon",
+      "country": "Chile",
+      "price": 15900,
+      "size": "750 ml"
+    },
+    {
+      "id": 8,
+      "img": "./assets/La_Celia_Reserva_Malbec.png",
+      "name": "La Celia",
+      "color": "Vino Tinto",
+      "variety":"Malbec",
+      "country": "Argentina",
+      "price": 57900,
+      "size": "750 ml"
+    },
+    {
+      "id": 9,
+      "img": "./assets/gato-negro_tinto.png",
+      "name": "Gato Negro",
+      "color": "Negro",
+      "variety":"Cabernet",
+      "country": "Chile",
+      "price": 40900,
+      "size": "750 ml"
+    }
+  ]
